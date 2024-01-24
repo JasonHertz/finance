@@ -1,11 +1,9 @@
 Symbol,Description
 AACG,Ata Creativity Global ADR
 AACI,Armada Acquisition Corp I
-AACIW,Armada Acquisition Corp I WT
 AADI,Aadi Biosciences Inc
 AADR,Advisorshares Dorsey Wright ETF
 AAGR,African Agriculture Holdings Inc
-AAGRW,African Agriculture Holdings Inc WT
 AAL,American Airlines Gp
 AAME,Atlantic Amer Cp
 AAOI,Applied Optoelect
@@ -23,9 +21,7 @@ ABEO,Abeona Therapeutics
 ABIO,Arca Biopharma Inc
 ABL,Abacus Life Inc
 ABLLL,Abacus Life Inc 9.875%
-ABLLW,Abacus Life Inc WT
 ABLV,Able View Global Inc Cl B
-ABLVW,Able View Global Inc WT
 ABNB,Airbnb Inc Cl A
 ABOS,Acumen Pharmaceuticals Inc
 ABSI,Absci Corp
@@ -34,21 +30,16 @@ ABUS,Arbutus Biopharma Cp
 ABVC,Abvc Biopharma Inc
 ABVX,Abivax Sa ADR
 ACAB,Atlantic Coastal Acquisition Corp II Cl A
-ACABW,Atlantic Coastal Acquisition Corp II WT
 ACAC,Acri Capital Acquisition Corporation Cl A
 ACACU,Acri Capital Acquisition Corp
-ACACW,Acri Capital Acquisition Corporation WT
 ACAD,Acadia Pharmaceutica
 ACAH,Atlantic Coastal Acquisition Corp Cl A
 ACAHU,Atlantic Coastal Acquisition Corp
-ACAHW,Atlantic Coastal Acquisition Corp WT
 ACAX,Alset Capital Acquisition Cl A
 ACAXU,Alset Capital Acquisition Corp
-ACAXW,Alset Capital Acquisition WT
 ACB,Aurora Cannabis Inc
 ACBA,Ace Global Business Acquisition Ltd
 ACBAU,Ace Global Business Acquisition Ltd
-ACBAW,Ace Global Business Acquisition WT
 ACCD,Accolade Inc
 ACDC,Profrac Holding Corp. Cl A
 ACET,Adicet Bio Inc
@@ -67,7 +58,6 @@ ACMR,Acm Research Inc
 ACNB,Acnb Corp
 ACNT,Ascent Industries Co.
 ACON,Aclarion Inc
-ACONW,Aclarion Inc WT
 ACOR,Acorda Therapeutics
 ACRS,Aclaris Therapts
 ACRV,Acrivon Therapeutics Inc
@@ -89,40 +79,32 @@ ADI,Analog Devices
 ADIL,Adial Pharmaceuticals Inc
 ADMA,Adma Biologics
 ADN,Advent Technologies Hldg Inc
-ADNWW,Advent Technologies Hldg Inc WT
 ADOC,Edoc Acquisition Corp Cl A
 ADP,Automatic Data Procs
 ADPT,Adaptive Biotechnologies Corp
 ADSE,Ads-Tec Energy Plc
-ADSEW,Ads-Tec Energy Plc WT
 ADSK,Autodesk Inc
 ADTH,Adtheorent Holding Inc
-ADTHW,Adtheorent Holding Inc WT
 ADTN,Adtran Holdings Inc
 ADTX,Aditxt Inc
 ADUS,Addus Homecare Corp
 ADV,Advantage Solutions Inc
 ADVM,Adverum Biotechnlgs
-ADVWW,Advantage Solutions Inc WT
 ADXN,Addex Therapeutics Ltd ADR
 AEAE,Altenergy Acquisition Corp Cl A
 AEAEU,Altenergy Acquisition Corp
-AEAEW,Altenergy Acquisition Corp WT
 AEHL,Antelope Enterprise Hldg Ltd
 AEHR,Aehr Test Systems
 AEI,Alset Inc
 AEIS,Advanced Energy
 AEMD,Aethlon Medical
 AENT,Alliance Entertainment Holding Corp
-AENTW,Alliance Entertainment Holding Corp WT
 AEP,American Electric Power Company
 AERT,Aeries Technology Inc
-AERTW,Aeries Technology Inc WT
 AEY,Addvantage Techs Group
 AEYE,Audioeye Inc
 AEZS,Aeterna Zentaris
 AFAR,Aura Fat Projects Acquisition Corp Cl A
-AFARW,Aura Fat Projects Acquisition Corp WT
 AFBI,Affinity Bancshares Inc
 AFCG,Afc Gamma Inc
 AFIB,Acutus Medical Inc
@@ -134,7 +116,6 @@ AFRM,Affirm Holdings Inc Cl A
 AFYA,Afya Ltd Cl A
 AGAE,Allied Gaming & Entertainment Inc
 AGBA,Agba Group Holding Ltd
-AGBAW,Agba Group Holding Ltd WT
 AGEN,Agenus Inc
 AGFY,Agrify Corp
 AGIO,Agios Pharmaceuticals
@@ -147,7 +128,6 @@ AGNCO,Agnc Investment Corp Fxdfr Prf Perpetual USD 25
 AGNCP,Agnc Investment Corp
 AGNG,GX Aging Population ETF
 AGRI,Agriforce Growing Systems Ltd
-AGRIW,Agriforce Growing Systems Ltd WT
 AGRX,Agile Therapeutics Inc
 AGYS,Agilysys Inc
 AGZD,Wisdomtree Int Rate US Agg Bond Fund
@@ -160,10 +140,8 @@ AIBBU,Aib Acquisition Corp
 AIH,Aesthetic Medical International Holdings Group L
 AIHS,Senmiao Technology Ltd
 AIMAU,Aimfinity Investment Corp. I
-AIMAW,Aimfinity Investment Corp I WT
 AIMBU,Aimfinity Investment Corp. I Sub
 AIMD,Ainos Inc
-AIMDW,Ainos WT
 AIP,Arteris Inc
 AIQ,GX Artificial Intelligence & Tech ETF
 AIRE,Realpha Tech Corp
@@ -174,7 +152,6 @@ AIRS,Airsculpt Technologies Inc
 AIRT,Air T Inc
 AIRTP,Air T Inc Funding Alpha Income Trust Preferred
 AISP,Airship Ai Holdings Inc
-AISPW,Airship Ai Holdings Inc WT
 AITR,Ai Transportation Acquisition Corp
 AITRU,Ai Transportation Acquisition Corp
 AIXI,Xiao-I Corporation ADR
@@ -192,7 +169,6 @@ ALCE,Alternus Clean Energy Inc.
 ALCO,Alico Inc
 ALCY,Alchemy Investments Acquisition Corp 1 Cl A
 ALCYU,Alchemy Investments Acquisition Corp 1 Units
-ALCYW,Alchemy Investments Acquisition Corp 1 WT
 ALDX,Aldeyra Therapeu
 ALEC,Alector Inc
 ALGM,Allegro Microsystems Inc
@@ -218,16 +194,13 @@ ALRS,Alerus Financial Corp
 ALSA,Alpha Star Acquisition Corp
 ALSAR,Alpha Star Acquisition Corp
 ALSAU,Alpha Star Acquisition Corp Units
-ALSAW,Alpha Star Acquisition Corp WT
 ALT,Altimmune Inc
 ALTI,Alti Global Inc
 ALTO,Alto Ingredients Inc
 ALTR,Altair Engineering Inc Cl A
 ALTU,Altitude Acquisition Corp Cl A
-ALTUW,Altitude Acquisition Corp WT
 ALTY,GX Superdividend Alternatives ETF
 ALVO,Alvotech
-ALVOW,Alvotech WT
 ALVR,Allovir Inc
 ALXO,Alx Oncology Holdings Inc
 ALYA,Alithya Group Inc Cl A
@@ -248,7 +221,6 @@ AMLI,American Lithium Corp
 AMLX,Amylyx Pharmaceuticals Inc
 AMNB,American Natl Bksh
 AMPG,Amplitech Group
-AMPGW,Amplitech Group Inc WT
 AMPH,Amphastar Pharma
 AMPL,Amplitude Inc Cl A
 AMRK,A-Mark Precious Meta
@@ -268,7 +240,6 @@ ANAB,Anaptysbio Inc
 ANDE,Andersons Inc
 ANEB,Anebulo Pharmaceuticals Inc
 ANGH,Anghami Inc
-ANGHW,Anghami Inc WT
 ANGI,Angi Inc
 ANGL,Vaneck Fallen Angel High Yield Bond ETF
 ANGO,Angiodynamics Inc
@@ -286,25 +257,20 @@ ANTX,An2 Therapeutics Inc
 ANY,Sphere 3D Corp
 AOGO,Arogo Capital Acquisition Corp Cl A
 AOGOU,Arogo Capital Acquisition Corp
-AOGOW,Arogo Capital Acquisition Corp WT
 AONC,American Oncology Network Inc
-AONCW,American Oncology Network Inc WT
 AOSL,Alpha and Omega Semi
 AOTG,Aot Growth and Innovation ETF
 AOUT,American Outdoor Brands Inc
 APA,Apa Corp
 APAC,Stonebridge Acquisition Corp Cl A
 APACU,Stonebridge Acquisition Corp
-APACW,Stonebridge Acquisition Corp WT
 APCX,Apptech Corp
-APCXW,Apptech Payments Corp WT
 APDN,Applied Dna Scns
 APEI,American Public Education
 APGE,Apogee Therapeutics Inc
 API,Agora Inc Ads
 APLD,Applied Digital Corp
 APLM,Apollomics Inc Cl A
-APLMW,Apollomics Inc WT
 APLS,Apellis Pharmaceuticals Inc
 APLT,Applied Therapeutics Inc
 APM,Aptorum Group Ltd Cl A
@@ -316,12 +282,10 @@ APPS,Digital Turbine
 APRE,Aprea Therapeutics Inc
 APTM,Alpha Partners Technology Merger Cl A
 APTMU,Alpha Partners Technology Merger Corp
-APTMW,Alpha Partners Technology Merger Corp WT
 APTO,Aptose Bioscns
 APVO,Aptevo Therapeutics Inc
 APWC,Asia Pacific Wire & Cable
 APXI,Apx Acquisition Corp I Cl A
-APXIW,Apx Acquisition Corp I WT
 APYX,Apyx Medical Corp
 AQB,Aquabounty Technologies Inc
 AQMS,Aqua Metals Inc
@@ -332,7 +296,6 @@ ARAV,Aravive Inc
 ARAY,Accuray Inc
 ARBB,Arb Iot Group Limited
 ARBE,Arbe Robotics Ltd
-ARBEW,Arbe Robotics Ltd WT
 ARBK,Argo Blockchain Plc ADR
 ARBKL,Argo Blockchain Plc 8.75% Senior Notes Due 2026
 ARCB,Arcbest Corp
@@ -340,27 +303,21 @@ ARCC,Ares Capital Corp
 ARCT,Arcturus Therapeutics Ltd
 ARDX,Ardelyx Inc
 AREB,American Rebel Holdings
-AREBW,American Rebel Holdings Inc WT
 AREC,American Resources Corp
 ARGX,Argenx Se ADR
 ARHS,Arhaus Inc Cl A
 ARIZ,Arisz Acquisition Corp
-ARIZW,Arisz Acquisition Corp WT
 ARKO,Arko Corp
-ARKOW,Arko Corp WT
 ARKR,Ark Restaurants Cp
 ARLP,Alliance Resource Pt
 ARM,Arm Holdings Plc Ard
 AROW,Arrow Financial Corp
 ARQQ,Arqit Quantum Inc
-ARQQW,Arqit Quantum Inc WT
 ARQT,Arcutis Biotherapeutics Inc
 ARRW,Arrowroot Acquisition Corp Cl A
 ARRWU,Arrowroot Acquisition Corp
-ARRWW,Arrowroot Acquisition Corp WT
 ARRY,Array Technologies Inc
 ARTL,Artelo Biosciences Inc
-ARTLW,Artelo Biosciences Inc WT
 ARTNA,Artesian Res Cp A
 ARTW,Art S Way MFG Company
 ARVL,Arrival
@@ -370,9 +327,7 @@ ARWR,Arrowhead Pharma
 ARYD,Arya Sciences Acquisition Corp IV Cl A
 ASCA,A Spac I Acquisition Corp Cl A
 ASCAU,A Spac I Acquisition Corp Units
-ASCAW,A Spac I Acquisition Corp WT
 ASCB,A Spac II Acquisition Corp Cl A
-ASCBW,A Spac II Acquisition Corp WT
 ASET,Flexshares Real Assets Allocation Index Fund
 ASLE,Aersale Corp
 ASLN,Aslan Pharmaceuticals Ltd ADR
@@ -389,16 +344,13 @@ ASTC,Astrotech Corp
 ASTE,Astec Inds Inc
 ASTI,Ascent Solar Technologies
 ASTL,Algoma Steel Group Inc
-ASTLW,Algoma Steel Group Inc WT
 ASTR,Astra Space Inc Cl. A
 ASTS,Ast Spacemobile Inc
-ASTSW,Ast Spacemobile Inc WT
 ASUR,Asure Software
 ASYS,Amtech Systems Inc
 ATAI,Atai Life Sciences N.V.
 ATAK,Aurora Technology Acquisition Corp Cl A
 ATAKU,Aurora Technology Acquisition Corp
-ATAKW,Aurora Technology Acquisition Corp WT
 ATAT,Atour Lifestyle Holdings ADR
 ATCOL,Atlas Corp 7.125% Notes Due 2027
 ATEC,Alphatec Holdings
