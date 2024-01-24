@@ -43,7 +43,6 @@ ACAH,Atlantic Coastal Acquisition Corp Cl A
 ACAHU,Atlantic Coastal Acquisition Corp
 ACAHW,Atlantic Coastal Acquisition Corp WT
 ACAX,Alset Capital Acquisition Cl A
-ACAXR,Alset Capital Acquisition Right
 ACAXU,Alset Capital Acquisition Corp
 ACAXW,Alset Capital Acquisition WT
 ACB,Aurora Cannabis Inc
@@ -177,7 +176,6 @@ AIRTP,Air T Inc Funding Alpha Income Trust Preferred
 AISP,Airship Ai Holdings Inc
 AISPW,Airship Ai Holdings Inc WT
 AITR,Ai Transportation Acquisition Corp
-AITRR,Ai Transportation Acquisition Corp Right
 AITRU,Ai Transportation Acquisition Corp
 AIXI,Xiao-I Corporation ADR
 AKAM,Akamai Technologies
@@ -329,7 +327,6 @@ AQB,Aquabounty Technologies Inc
 AQMS,Aqua Metals Inc
 AQST,Aquestive Therapeutics Inc
 AQU,Aquaron Acquisition Corp
-AQUNR,Aquaron Acquisition Corp Rights
 AQWA,GX Clean Water ETF
 ARAV,Aravive Inc
 ARAY,Accuray Inc
@@ -348,7 +345,6 @@ AREC,American Resources Corp
 ARGX,Argenx Se ADR
 ARHS,Arhaus Inc Cl A
 ARIZ,Arisz Acquisition Corp
-ARIZR,Arisz Acquisition Corp Right
 ARIZW,Arisz Acquisition Corp WT
 ARKO,Arko Corp
 ARKOW,Arko Corp WT
@@ -373,11 +369,9 @@ ARVR,FT Indxx Metaverse ETF
 ARWR,Arrowhead Pharma
 ARYD,Arya Sciences Acquisition Corp IV Cl A
 ASCA,A Spac I Acquisition Corp Cl A
-ASCAR,A Spac I Acquisition Corp Right
 ASCAU,A Spac I Acquisition Corp Units
 ASCAW,A Spac I Acquisition Corp WT
 ASCB,A Spac II Acquisition Corp Cl A
-ASCBR,A Spac II Acquisition Corp Right
 ASCBW,A Spac II Acquisition Corp WT
 ASET,Flexshares Real Assets Allocation Index Fund
 ASLE,Aersale Corp
@@ -403,7 +397,6 @@ ASUR,Asure Software
 ASYS,Amtech Systems Inc
 ATAI,Atai Life Sciences N.V.
 ATAK,Aurora Technology Acquisition Corp Cl A
-ATAKR,Aurora Technology Acquisition Corp Rights
 ATAKU,Aurora Technology Acquisition Corp
 ATAKW,Aurora Technology Acquisition Corp WT
 ATAT,Atour Lifestyle Holdings ADR
@@ -421,10 +414,8 @@ ATLCP,Atlanticus Holdings Corp 7.625% Series B
 ATLO,Ames Natl Corp
 ATLX,Atlas Lithium Corp
 ATMC,Alphatime Acquisition Corp
-ATMCR,Alphatime Acquisition Corp Right
 ATMCW,Alphatime Acquisition Corp WT
 ATMV,Alphavest Acquisition Corp
-ATMVR,Alphavest Acquisition Corp Right
 ATMVU,Alphavest Acquisition Corp
 ATNF,180 Life Sciences Corp
 ATNFW,180 Life Sciences Corp WT
@@ -505,7 +496,6 @@ BASE,Couchbase Inc
 BATRA,Atlanta Braves Holdings Inc
 BATRK,Atlanta Braves Holdings Inc C
 BAYA,Bayview Acquisition Corp Cl A
-BAYAR,Bayview Acquisition Corp Right
 BAYAU,Bayview Acquisition Corp
 BBCP,Concrete Pumping Holdings Inc
 BBGI,Beasley Broadcast Group
@@ -606,7 +596,6 @@ BKWO,BNY Mellon Women's Opportunities ETF
 BKYI,Bio-Key Intl Inc
 BL,Blackline Inc
 BLAC,Bellevue Life Sciences Acquisition Corp
-BLACR,Bellevue Life Sciences Acquisition Corp Rights
 BLACU,Bellevue Life Sciences Acquisition Corp
 BLACW,Bellevue Life Sciences Acquisition Corp WT
 BLBD,Blue Bird Corp
@@ -617,7 +606,6 @@ BLDE,Blade Air Mobility Inc
 BLDEW,Blade Air Mobility Inc WT
 BLDP,Ballard Power Sys
 BLEU,Bleuacacia Ltd Cl A
-BLEUR,Bleuacacia Ltd Rights
 BLEUU,Bleuacacia Ltd Units
 BLEUW,Bleuacacia Ltd WT
 BLFS,Biolife Solutions
@@ -642,7 +630,6 @@ BNDW,Total World Bond Vanguard ETF
 BNDX,Total Intl Bond ETF Vanguard
 BNGO,Bionano Genomics Inc
 BNIX,Bannix Acquisition Corp
-BNIXR,Bannix Acquisition Corp Right
 BNIXW,Bannix Acquisition Corp WT
 BNOX,Bionomics Ltd ADR
 BNR,Burning Rock Biotech Ltd ADR
@@ -663,7 +650,6 @@ BOSC,Bos Better Online
 BOTJ,Bank of The Jame Fnl
 BOTZ,GX Robotics & Artificial Intelligence ETF
 BOWN,Bowen Acquisition Corp
-BOWNR,Bowen Acquisition Corp Rights
 BOWNU,Bowen Acquisition Corp
 BOXL,Boxlight Corp Cl A
 BPMC,Blueprint Medicines Corp
@@ -677,12 +663,10 @@ BPYPN,Brookfield Property Partners L.P. 5.75% Prf Perp
 BPYPO,Brookfield Property Partners L.P. 6.375% Prf P
 BPYPP,Brookfield Property Partners LP Pfd Unit Ltd Par
 BRAC,Broad Capital Acquisition Corp
-BRACR,Broad Capital Acquisition Corp Rights
 BRACU,Broad Capital Acquisition Corp Units
 BRAG,Bragg Gaming Group Inc
 BREA,Brera Holdings Plc Cl B
 BREZ,Breeze Holdings Acquisition Corp
-BREZR,Breeze Holdings Acquisition Corp Right
 BREZW,Breeze Holdings Acquisition Corp WT
 BRFH,Barfresh Food Group
 BRID,Bridgford Foods Cp
@@ -691,7 +675,6 @@ BRKHW,Burtech Acquisition Corp WT
 BRKL,Brookline Bancorp
 BRKR,Bruker Corp
 BRLI,Brilliant Acquisition Corp
-BRLIR,Brilliant Acquisition Corp Rights
 BRLIU,Brilliant Acquisition Corp
 BRLIW,Brilliant Acquisition Corp WT
 BRLT,Brilliant Earth Group Inc Cl A
@@ -904,7 +887,6 @@ CERE,Cerevel Therapeutics Hldg Inc
 CERS,Cerus Corp
 CERT,Certara Inc
 CETU,Cetus Capital Acquisition Corp Cl A
-CETUR,Cetus Capital Acquisition Corp Rights
 CETUW,Cetus Capital Acquisition Corp WT
 CETX,Cemtrex Inc
 CETXP,Cemtrex Inc Series 1 Pfd
@@ -993,7 +975,6 @@ CLEU,China Liberal Education Holdings Ltd
 CLFD,Clearfield Inc
 CLGN,Collplant Biotechnologies Ltd ADR
 CLIN,Clean Earth Acquisitions Corp. Cl A
-CLINR,Clean Earth Acquisitions Corp. Right
 CLINU,Clean Earth Acquisitions Corp
 CLINW,Clean Earth Acquisitions Corp. WT
 CLIR,Clearsign Combustion
@@ -1308,7 +1289,6 @@ DLTH,Duluth Holdings Cl B
 DLTR,Dollar Tree Inc
 DMAC,Diamedica Therapeutics Inc
 DMAQ,Deep Medicine Acquisition Corp Cl A
-DMAQR,Deep Medicine Acquisition Corp Rights
 DMAT,GX Disruptive Materials ETF
 DMK,Dmk Pharmaceuticals Corp
 DMLP,Dorchester Minerals
@@ -1689,7 +1669,6 @@ FJP,Japan Alphadex Fund FT
 FKU,UK Alphadex Fund FT
 FKWL,Franklin Wireless Co.
 FLFV,Feutune Light Acquisition Corporation Cl A
-FLFVR,Feutune Light Acquisition Corporation Right
 FLFVU,Feutune Light Acquisition Corp
 FLFVW,Feutune Light Acquisition Corporation WT
 FLGC,Flora Growth Corp
@@ -1849,7 +1828,6 @@ GATE,Marblegate Acquisition Corp Cl A
 GATEU,Marblegate Acquisition Corp
 GATEW,Marblegate Acquisition Corp WT
 GBBK,Global Blockchain Acquisition Corp
-GBBKR,Global Blockchain Acquisition Right
 GBBKW,Global Blockchain Acquisition WT
 GBDC,Golub Capital Bdc
 GBIO,Generation Bio Co.
@@ -1910,7 +1888,6 @@ GILT,Gilat Satellite Ntwk
 GIPR,Generation Income Properties Inc
 GIPRW,Generation Income Properties Inc WT
 GLAC,Global Lights Acquisition Corp
-GLACR,Global Lights Acquisition Corp Rights
 GLACU,Global Lights Acquisition Corp
 GLAD,Gladstone Cap Corp
 GLADZ,Gladstone Capital Corp 7.75%
@@ -1920,7 +1897,6 @@ GLBZ,Glen Burnie Bancorp
 GLDD,Great Lakes Drg Dock
 GLDI,CS X-Links Gold Share
 GLLI,Globalink Investment Inc
-GLLIR,Globalink Investment Inc Rights
 GLLIW,Globalink Investment Inc WT
 GLMD,Galmed Pharmaceutica
 GLNG,Golar Lng Ltd
@@ -1929,7 +1905,6 @@ GLPI,Gaming & Leisure
 GLRE,Greenlight Cap. Re.
 GLSI,Greenwich Lifesciences Inc
 GLST,Global Star Acquisition Inc Cl A
-GLSTR,Global Star Acquisition Right
 GLSTW,Global Star Acquisition WT
 GLTO,Galecto Inc
 GLUE,Monte Rosa Therapeutics Inc
@@ -2151,7 +2126,6 @@ HSIC,Henry Schein Inc
 HSII,Heidrick & Struggl
 HSON,Hudson Global
 HSPO,Horizon Space Acquisition I Corp
-HSPOR,Horizon Space Acquisition I Corp. Right
 HSPOU,Horizon Space Acquisition I Corp
 HSPOW,Horizon Space Acquisition I Corp. WT
 HST,Host Marriott Financial Trust
@@ -2174,7 +2148,6 @@ HUBCW,Hub Cyber Security WT
 HUBCZ,Hub Cyber Security WT
 HUBG,Hub Group Inc A
 HUDA,Hudson Acquisition I Corp
-HUDAR,Hudson Acquisition I Corp Right
 HUDI,Huadi International Group Ltd
 HUGE,Fsd Pharma Inc Cl B
 HUIZ,Huize Holding Ltd ADR
@@ -2262,7 +2235,6 @@ IGMS,Igm Biosciences Inc
 IGOV,Intl Treasury Bond Ishares ETF
 IGSB,Short-Term Corp Bond Ishares ETF
 IGTA,Inception Growth Acquisition Ltd
-IGTAR,Inception Growth Acquisition Rights
 IGTAU,Inception Growth Acquisition Limited Units
 IGTAW,Inception Growth Acquisition WT
 IHRT,Iheartmedia Inc
@@ -2281,7 +2253,6 @@ ILPT,Industrial Logistics Properties Trust
 IMAB,I-Mab ADR
 IMACW,Imac Holdings Inc WT
 IMAQ,International Media Acquisition Corp Cl A
-IMAQR,International Media Acquisition Corp Rights
 IMAQU,International Media Acquisition Corp
 IMAQW,International Media Acquisition Corp WT
 IMCC,IM Cannabis Corp
@@ -2489,7 +2460,6 @@ JZ,Jianzhi Education Technology Group ADR
 JZXN,Jiuzi Holdings Inc
 KA,Kineta Inc
 KACL,Kairous Acquisition Corp Ltd
-KACLR,Kairous Acquisition Corp Rights
 KACLU,Kairous Acquisition Corp. Limited
 KACLW,Kairous Acquisition Corp WT
 KALA,Kala Bio Inc
@@ -2808,13 +2778,10 @@ MBWM,Mercantile Bank Corp
 MCAA,Mountain & Co. I Acquisition Corp Cl A
 MCAAW,Mountain & Co. I Acquisition Corp WT
 MCAC,Monterey Capital Acquisition Corp Cl A
-MCACR,Monterey Capital Acquisition Corp Rights
 MCACW,Monterey Capital Acquisition Corp WT
 MCAF,Mountain Crest Acquisition Corp IV
-MCAFR,Mountain Crest Acquisition Corp IV Rights
 MCAFU,Mountain Crest Acquisition Corp IV
 MCAG,Mountain Crest Acquisition Corp V
-MCAGR,Mountain Crest Acquisition Corp V Right
 MCBC,Macatawa Bank Corp
 MCBS,Metrocity Bankshares Inc
 MCFT,Mastercraft Boat Holdings Inc
@@ -3118,7 +3085,6 @@ NOGNW,Nogin Inc WT
 NOTV,Inotiv Inc
 NOVT,Novanta Inc
 NOVV,Nova Vision Acquisition Corp
-NOVVR,Nova Vision Acquisition Corp Rights
 NOVVW,Nova Vision Acquisition Corp WT
 NPAB,New Providence Acquisition Corp II Cl A
 NPABW,New Providence Acquisition Corp II WT
@@ -3168,7 +3134,6 @@ NUVL,Nuvalent Inc Cl A
 NUWE,Nuwellis Inc
 NUZE,Nuzee Inc
 NVAC,Northview Acquisition Corp
-NVACR,Northview Acquisition Corp Rights
 NVACW,Northview Acquisition Corp WT
 NVAX,Novavax Inc
 NVCR,Novocure Ltd Ord Sh
@@ -3229,7 +3194,6 @@ NZUS,SPDR MSCI USA Climate Paris Aligned ETF
 OABI,Omniab Inc
 OABIW,Omniab Inc WT
 OAKU,Oak Woods Acquisition Corporation Cl A
-OAKUR,Oak Woods Acquisition Corporation Right
 OAKUU,Oak Woods Acquisition Corp
 OAKUW,Oak Woods Acquisition Corporation WT
 OB,Outbrain Inc
@@ -3680,7 +3644,6 @@ QDRO,Quadro Acquisition One Corp
 QDROU,Quadro Acquisition One Corp UT
 QDROW,Quadro Acquisition One Corp WT
 QETA,Quetta Acquisition Corp
-QETAR,Quetta Acquisition Corporation Right
 QETAU,Quetta Acquisition Corp
 QFIN,Qifu Technology Inc ADR
 QH,Quhuo Ltd ADR
@@ -3916,7 +3879,6 @@ SABS,Sab Biotherapeutics Inc
 SABSW,Sab Biotherapeutics Inc WT
 SAFT,Safety Ins Group Inc
 SAGA,Sagaliam Acquisition Corp Cl A
-SAGAR,Sagaliam Acquisition Corp Rights
 SAGE,Sage Therapeutic Com
 SAI,Sai.Tech Global Corp
 SAIA,Saia Inc
@@ -4262,7 +4224,6 @@ SUSL,Ishares ESG MSCI USA Leaders ETF
 SVC,Service Properties Trust
 SVFD,Save Foods Inc
 SVII,Spring Valley Acquisition Corp. II Cl A
-SVIIR,Spring Valley Acquisition Corp. II Rights
 SVIIU,Spring Valley Acquisition Corp. II Units
 SVIIW,Spring Valley Acquisition Corp. II WT
 SVMH,Srivaru Holding Limited
@@ -4323,7 +4284,6 @@ TBLAW,Taboola.com Ltd WT
 TBLD,Thornburg Income Builder Opportunities Trust
 TBLT,Toughbuilt Industries Inc
 TBMC,Trailblazer Merger Corporation I Cl A
-TBMCR,Trailblazer Merger Corporation I Rights
 TBNK,Territorial Bancorp
 TBPH,Theravance Bio Ord
 TC,Tuanche Ltd ADR
@@ -4359,7 +4319,6 @@ TEDU,Tarena Intl ADR
 TELA,Tela Bio Inc
 TENB,Tenable Holdings Inc
 TENK,Tenx Keane Acquisition Ordinary Share
-TENKR,Tenx Keane Acquisition Right
 TENKU,Tenx Keane Acquisition
 TENX,Tenax Therapeutics
 TER,Teradyne Inc
@@ -4421,7 +4380,6 @@ TMCWW,Tmc The Metals Company WT
 TMDX,Transmedics Group Inc
 TMET,Ishares Transition-Enabling Metals ETF
 TMTC,Tmt Acquisition Corp
-TMTCR,Tmt Acquisition Corp Rights
 TMUS,T-Mobile US
 TNDM,Tandem Diabetes Care
 TNGX,Tango Therapeutics Inc
