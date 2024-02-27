@@ -488,7 +488,6 @@ AMCR,Amcor plc
 SJM,The J. M. Smucker Company
 BURL,"Burlington Stores, Inc."
 TAP,Molson Coors Beverage Company
-TAP.A,Molson Coors Beverage Company
 GFL,GFL Environmental Inc.
 PSTG,"Pure Storage, Inc."
 KIM,Kimco Realty Corporation
@@ -509,7 +508,6 @@ TFII,TFI International Inc.
 USFD,US Foods Holding Corp.
 WMS,"Advanced Drainage Systems, Inc."
 CPB,Campbell Soup Company
-UHAL.B,U-Haul Holding Company
 UHAL,U-Haul Holding Company
 U,Unity Software Inc.
 SQM,Sociedad Química y Minera de Chile S.A.
@@ -590,7 +588,6 @@ CUBE,CubeSmart
 TTC,The Toro Company
 QGEN,Qiagen N.V.
 BIO,"Bio-Rad Laboratories, Inc."
-BIO.B,"Bio-Rad Laboratories, Inc."
 GLOB,Globant S.A.
 FTI,TechnipFMC plc
 BJ,"BJ's Wholesale Club Holdings, Inc."
